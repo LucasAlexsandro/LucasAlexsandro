@@ -24,5 +24,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lucasalexsandro)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalexsandro&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexsandro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
