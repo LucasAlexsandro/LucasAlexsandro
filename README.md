@@ -9,6 +9,12 @@
 
 </p>
 
+<br>
+
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=LucasAlexsandro.LucasAlexsandro??style=for-the-badge&logo=appveyor"></a>
+</p>
+
 <hr>
 
 
