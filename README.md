@@ -11,23 +11,17 @@
 
 <br>
 
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=LucasAlexsandro.LucasAlexsandro??style=for-the-badge&logo=appveyor"></a>
-</p>
-
 <hr>
 
-
-
-<h5 align='center'> :computer: </h5>
 <p align='center'>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;&nbsp;
 </p>
 <br><br>
 
-<span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalexsandro&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalexsandro&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
